@@ -1,0 +1,39 @@
+.parallax {
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .parallax-1 {
+    /* The image used */
+    background-image: url(/parallax-practice/CSS/img/img1.jpg);
+  }
+
+  .parallax-2 {
+    background-image: url(/parallax-practice/CSS/img/img2.jpg);
+  }
+
+  .parallax-3 {
+    background-image: url(/parallax-practice/CSS/img/img3.jpg);
+  }
+
+  .parallax-4 {
+    background-image: url(/parallax-practice/CSS/img/img4.jpg);
+  }
+
+  footer{
+    height: 50px
+  }
+
+  h1 {
+    font-family: ibarra real nova;
+  }
+
+  p{
+    font-family: ibarra real nova;
+  }
